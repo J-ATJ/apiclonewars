@@ -1,0 +1,123 @@
+@import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@400..900&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+:root {
+    --primary: #ffe81f;
+    --bg: #0a0a0a;
+    --card-bg: #161616;
+    --text: #ececec;
+}
+
+body {
+    font-family: 'Poppins', sans-serif;
+    background-color: var(--bg);
+    color: var(--text);
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
+
+.container {
+    max-width: 600px;
+    width: 85%;
+    padding: 3rem;
+    border: 1px solid #2a2a2a;
+    border-radius: 20px;
+    background: var(--card-bg);
+    box-shadow: 0 0px 50px #272727;
+    text-align: center;
+}
+
+h1 {
+    font-family: 'Orbitron', sans-serif !important;
+    color: var(--primary);
+    text-transform: uppercase;
+    letter-spacing: 7px;
+    font-size: 2rem;
+    margin: 0 0 1rem 0;
+}
+
+.subtitle {
+    font-family: 'Poppins', sans-serif;
+    font-size: 0.75rem;
+    color: #777;
+    margin-bottom: 2.5rem;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+    font-weight: 600;
+}
+
+#quote-container {
+    min-height: 140px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+#quote-display {
+    background: #ffe91f14;
+    border-left: 3px solid var(--primary);
+    font-family: 'Poppins', sans-serif;
+    font-size: 1.25rem;
+    font-style: italic;
+    font-weight: 300;
+    letter-spacing: 1.5px;
+    line-height: 1.6;
+    padding: 20px;
+    transition: opacity 0.3s ease;
+}
+
+#api-url-display {
+    font-family: 'Poppins', sans-serif;
+    font-size: .9rem;
+    font-style: italic;
+    margin-bottom: 2.5rem;
+    text-decoration: none;
+}
+
+#api-url-display a {
+    text-decoration: none;
+    color: #777;
+}
+
+#api-url-display a:hover {
+    text-decoration: underline;
+}
+
+button {
+    font-family: 'Orbitron', sans-serif !important;
+    background: transparent;
+    color: var(--primary);
+    border: 2px solid var(--primary);
+    padding: 12px 40px;
+    font-size: 1rem;
+    font-weight: 700;
+    cursor: pointer;
+    border-radius: 5px;
+    transition: all 0.2s ease;
+    letter-spacing: 2px;
+}
+
+button:hover {
+    background: var(--primary);
+    color: #000;
+    box-shadow: 0 0 20px #ffe91f65;
+}
+
+footer {
+    margin-top: 40px;
+    padding-top: 20px;
+    border-top: 1px solid #222;
+}
+
+footer a {
+    font-family: 'Poppins', sans-serif;
+    color: #444;
+    text-decoration: none;
+    font-size: 0.8rem;
+}
+
+.fade-out {
+    opacity: 0;
+}

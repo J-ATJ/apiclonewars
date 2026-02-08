@@ -1,0 +1,417 @@
+{
+    "s1": {
+        "episodes": {
+            "e1": {
+                "quote": "Great leaders inspire greatness in others."
+            },
+            "e2": {
+                "quote": "Belief is not a matter of choice, but of conviction."
+            },
+            "e3": {
+                "quote": "Easy is the path to wisdom for those not blinded by ego."
+            },
+            "e4": {
+                "quote": "A plan is only as good as those who see it through."
+            },
+            "e5": {
+                "quote": "The best confidence builder is experience."
+            },
+            "e6": {
+                "quote": "Trust in your friends, and they’ll have reason to trust in you."
+            },
+            "e7": {
+                "quote": "You hold onto friends by keeping your heart a little softer than your head."
+            },
+            "e8": {
+                "quote": "Heroes are made by the times."
+            },
+            "e9": {
+                "quote": "Ignore your instincts at your peril."
+            },
+            "e10": {
+                "quote": "Most powerful is he who controls his own power."
+            },
+            "e11": {
+                "quote": "The winding path to peace is always a worthy one, regardless of how many turns it takes."
+            },
+            "e12": {
+                "quote": "Fail with honor rather than succeed by fraud."
+            },
+            "e13": {
+                "quote": "Greed and fear of loss are the roots that lead to the tree of evil."
+            },
+            "e14": {
+                "quote": "When surrounded by war, one must eventually choose a side."
+            },
+            "e15": {
+                "quote": "Arrogance diminishes wisdom."
+            },
+            "e16": {
+                "quote": "Truth enlightens the mind, but won’t always bring happiness to your heart."
+            },
+            "e17": {
+                "quote": "Fear is a disease; hope is its only cure."
+            },
+            "e18": {
+                "quote": "A single chance is a galaxy of hope."
+            },
+            "e19": {
+                "quote": "It is a rough road that leads to the heights of greatness."
+            },
+            "e20": {
+                "quote": "The costs of war can never be truly accounted for."
+            },
+            "e21": {
+                "quote": "Compromise is a virtue to be cultivated, not a weakness to be despised."
+            },
+            "e22": {
+                "quote": "A secret shared is a trust formed."
+            }
+        }
+    },
+    "s2": {
+        "episodes": {
+            "e1": {
+                "quote": "A lesson learned is a lesson earned."
+            },
+            "e2": {
+                "quote": "Overconfidence is the most dangerous form of carelessness."
+            },
+            "e3": {
+                "quote": "The first step to correcting a mistake is patience."
+            },
+            "e4": {
+                "quote": "A true heart should never be doubted."
+            },
+            "e5": {
+                "quote": "Believe in yourself or no one else will."
+            },
+            "e6": {
+                "quote": "No gift is more precious than trust."
+            },
+            "e7": {
+                "quote": "Sometimes, accepting help is harder than offering it."
+            },
+            "e8": {
+                "quote": "Attachment is not compassion."
+            },
+            "e9": {
+                "quote": "For everything you gain, you lose something else."
+            },
+            "e10": {
+                "quote": "It is the quest for honor that makes one honorable."
+            },
+            "e11": {
+                "quote": "Easy isn’t always simple."
+            },
+            "e12": {
+                "quote": "If you ignore the past, you jeopardize the future."
+            },
+            "e13": {
+                "quote": "Fear not for the future, weep not for the past."
+            },
+            "e14": {
+                "quote": "In war, truth is the first casualty."
+            },
+            "e15": {
+                "quote": "Searching for the truth is easy. Accepting the truth is hard."
+            },
+            "e16": {
+                "quote": "A wise leader knows when to follow."
+            },
+            "e17": {
+                "quote": "Courage makes heroes, but trust builds friendships."
+            },
+            "e18": {
+                "quote": "Choose what is right, not what is easy."
+            },
+            "e19": {
+                "quote": "The most dangerous beast is the beast within."
+            },
+            "e20": {
+                "quote": "Who my father was matters less than my memory of him."
+            },
+            "e21": {
+                "quote": "Adversity is a friendship’s truest test."
+            },
+            "e22": {
+                "quote": "Revenge is a confession of pain."
+            }
+        }
+    },
+    "s3": {
+        "episodes": {
+            "e1": {
+                "quote": "Brothers in arms are brothers for life."
+            },
+            "e2": {
+                "quote": "Fighting a war tests a soldier’s skills, defending his home tests a soldier’s heart."
+            },
+            "e3": {
+                "quote": "Where there’s a will, there’s a way."
+            },
+            "e4": {
+                "quote": "A child stolen is a hope lost."
+            },
+            "e5": {
+                "quote": "The challenge of hope is to overcome corruption."
+            },
+            "e6": {
+                "quote": "Those who enforce the law must obey the law."
+            },
+            "e7": {
+                "quote": "The future has many paths – choose wisely."
+            },
+            "e8": {
+                "quote": "A failure in planning is a plan for failure."
+            },
+            "e9": {
+                "quote": "Love comes in all shapes and sizes."
+            },
+            "e10": {
+                "quote": "Fear is a great motivator."
+            },
+            "e11": {
+                "quote": "Truth can strike down the spectre of fear."
+            },
+            "e12": {
+                "quote": "The swiftest path to destruction is through vengeance."
+            },
+            "e13": {
+                "quote": "Evil is not born, it is taught."
+            },
+            "e14": {
+                "quote": "The path to evil may bring great power, but not loyalty."
+            },
+            "e15": {
+                "quote": "Balance is found in the one who faces his guilt."
+            },
+            "e16": {
+                "quote": "He who surrenders hope, surrenders life."
+            },
+            "e17": {
+                "quote": "He who seeks to control fate shall never find peace."
+            },
+            "e18": {
+                "quote": "Adaptation is the key to survival."
+            },
+            "e19": {
+                "quote": "Anything that can go wrong will."
+            },
+            "e20": {
+                "quote": "Without honor, victory is hollow."
+            },
+            "e21": {
+                "quote": "Without humility, courage is a dangerous game."
+            },
+            "e22": {
+                "quote": "A great student is what the teacher hopes to be."
+            }
+        }
+    },
+    "s4": {
+        "episodes": {
+            "e1": {
+                "quote": "When destiny calls, the chosen have no choice."
+            },
+            "e2": {
+                "quote": "Only through fire is a strong sword forged."
+            },
+            "e3": {
+                "quote": "Crowns are inherited, kingdoms are earned."
+            },
+            "e4": {
+                "quote": "Who a person truly is cannot be seen with the eye."
+            },
+            "e5": {
+                "quote": "Understanding is honoring the truth beneath the surface."
+            },
+            "e6": {
+                "quote": "Who’s the more foolish, the fool or the fool who follows him?"
+            },
+            "e7": {
+                "quote": "The first step towards loyalty is trust."
+            },
+            "e8": {
+                "quote": "The path of ignorance is guided by fear."
+            },
+            "e9": {
+                "quote": "The wise man leads, the strong man follows."
+            },
+            "e10": {
+                "quote": "Our actions define our legacy."
+            },
+            "e11": {
+                "quote": "Where we are going always reflects where we came from."
+            },
+            "e12": {
+                "quote": "Those who enslave others, inevitably become slaves themselves."
+            },
+            "e13": {
+                "quote": "Great hope can come from small sacrifices."
+            },
+            "e14": {
+                "quote": "Friendship shows us who we really are."
+            },
+            "e15": {
+                "quote": "All warfare is based on deception."
+            },
+            "e16": {
+                "quote": "Keep your friends close, but keep your enemies closer."
+            },
+            "e17": {
+                "quote": "The strong survive, the noble overcome."
+            },
+            "e18": {
+                "quote": "Trust is the greatest of gifts, but it must be earned."
+            },
+            "e19": {
+                "quote": "One must let go of the past to hold on to the future."
+            },
+            "e20": {
+                "quote": "Who we are never changes, who we think we are does."
+            },
+            "e21": {
+                "quote": "A fallen enemy may rise again, but the reconciled one is truly vanquished."
+            },
+            "e22": {
+                "quote": "The enemy of my enemy is my friend."
+            }
+        }
+    },
+    "s5": {
+        "episodes": {
+            "e1": {
+                "quote": "Strength of character can defeat strength in numbers."
+            },
+            "e2": {
+                "quote": "Fear is a malleable weapon."
+            },
+            "e3": {
+                "quote": "To seek something is to believe in its possibility."
+            },
+            "e4": {
+                "quote": "Struggles often begin and end with the truth."
+            },
+            "e5": {
+                "quote": "Disobedience is a demand for change."
+            },
+            "e6": {
+                "quote": "He who faces himself, finds himself."
+            },
+            "e7": {
+                "quote": "The young are often underestimated."
+            },
+            "e8": {
+                "quote": "When we rescue others, we rescue ourselves."
+            },
+            "e9": {
+                "quote": "Choose your enemies wisely, as they may be your last hope."
+            },
+            "e10": {
+                "quote": "Humility is the only defense against humiliation."
+            },
+            "e11": {
+                "quote": "When all seems hopeless, a true hero gives hope."
+            },
+            "e12": {
+                "quote": "A soldier’s most powerful weapon is courage."
+            },
+            "e13": {
+                "quote": "You must trust in others or success is impossible."
+            },
+            "e14": {
+                "quote": "One vision can have many interpretations."
+            },
+            "e15": {
+                "quote": "Alliances can stall true intentions."
+            },
+            "e16": {
+                "quote": "Morality separates heroes from villains."
+            },
+            "e17": {
+                "quote": "Sometimes even the smallest doubt can shake the greatest belief."
+            },
+            "e18": {
+                "quote": "Courage begins by trusting oneself."
+            },
+            "e19": {
+                "quote": "Never become desperate enough to trust the untrustworthy."
+            },
+            "e20": {
+                "quote": "Never give up hope, no matter how dark things seem."
+            }
+        }
+    },
+    "s6": {
+        "episodes": {
+            "e1": {
+                "quote": "The truth about yourself is always the hardest to accept."
+            },
+            "e2": {
+                "quote": "The wise benefit from a second opinion."
+            },
+            "e3": {
+                "quote": "When in doubt, go to the source."
+            },
+            "e4": {
+                "quote": "The popular belief isn’t always the correct one."
+            },
+            "e5": {
+                "quote": "To love, is to trust. To trust is to believe."
+            },
+            "e6": {
+                "quote": "Jealousy is the path to chaos."
+            },
+            "e7": {
+                "quote": "Deceit is the weapon of greed."
+            },
+            "e8": {
+                "quote": "Without darkness there cannot be light."
+            },
+            "e9": {
+                "quote": "Wisdom is born in fools as well as wise men."
+            },
+            "e10": {
+                "quote": "What is lost is often found."
+            },
+            "e11": {
+                "quote": "Madness can sometimes be the path to truth."
+            },
+            "e12": {
+                "quote": "Death is just the beginning."
+            },
+            "e13": {
+                "quote": "Facing all that you fear will free you from yourself."
+            }
+        }
+    },
+    "s7": {
+        "episodes": {
+            "e1": {
+                "quote": "Embrace others for their differences, for that makes you whole."
+            },
+            "e2": {
+                "quote": "The search for truth begins with belief."
+            },
+            "e3": {
+                "quote": "Survival is one step on the path to living."
+            },
+            "e4": {
+                "quote": "Trust placed in another is trust earned."
+            },
+            "e5": {
+                "quote": "If there is no path before you, create your own."
+            },
+            "e6": {
+                "quote": "Mistakes are valuable lessons often learned too late."
+            },
+            "e7": {
+                "quote": "Who you were does not have to define who you are."
+            },
+            "e8": {
+                "quote": "You can change who you are, but you cannot run from yourself."
+            }
+        }
+    }
+}
